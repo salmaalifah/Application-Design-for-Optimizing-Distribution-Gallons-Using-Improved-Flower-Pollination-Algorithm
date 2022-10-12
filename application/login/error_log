@@ -1,0 +1,24 @@
+[16-Jun-2022 19:18:57 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'candrain_salma'@'localhost' to database 'candrain_app_salma' in /home/candrain/public_html/function/connect.php:7
+Stack trace:
+#0 /home/candrain/public_html/function/connect.php(7): PDO->__construct('mysql:dbname=ca...', 'candrain_salma', 'salmaskripsi')
+#1 /home/candrain/public_html/login/index.php(2): include('/home/candrain/...')
+#2 {main}
+  thrown in /home/candrain/public_html/function/connect.php on line 7
+[16-Jun-2022 19:19:47 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/candrain/public_html/login/index.php on line 20
+[16-Jun-2022 20:52:43 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/candrain/public_html/login/index.php on line 20
+[21-Jun-2022 08:38:14 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/candrain/public_html/login/index.php on line 20
+[21-Jun-2022 16:45:24 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/candrain/public_html/login/index.php on line 20
+[21-Jun-2022 20:31:10 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/candrain/public_html/login/index.php on line 20
+[22-Jun-2022 09:06:25 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/candrain/public_html/login/index.php on line 20
+[22-Jun-2022 20:11:28 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/candrain/public_html/login/index.php on line 20
+[23-Jun-2022 13:09:07 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/candrain/public_html/login/index.php on line 20
+[23-Jun-2022 15:17:26 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/candrain/public_html/login/index.php on line 20
+[23-Jun-2022 20:43:09 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/candrain/public_html/login/index.php on line 20
+[24-Jun-2022 09:49:54 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/candrain/public_html/login/index.php on line 20
+[24-Jun-2022 10:53:08 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/candrain/public_html/login/index.php on line 20
+[24-Jun-2022 20:34:16 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/candrain/public_html/login/index.php on line 20
+[26-Jun-2022 09:33:31 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/candrain/public_html/login/index.php on line 20
+[26-Jun-2022 09:37:47 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/candrain/public_html/login/index.php on line 20
+[26-Jun-2022 11:21:18 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/candrain/public_html/login/index.php on line 20
+[26-Jun-2022 19:17:17 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/candrain/public_html/login/index.php on line 20
+[26-Jun-2022 20:42:40 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/candrain/public_html/login/index.php on line 20

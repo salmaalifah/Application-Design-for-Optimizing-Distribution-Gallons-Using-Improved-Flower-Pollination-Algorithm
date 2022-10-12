@@ -1,0 +1,9 @@
+[07-May-2022 22:37:25 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/kemalarf/public_html/salma/function/warehouse_update.php on line 8
+[07-May-2022 22:37:34 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/kemalarf/public_html/salma/function/warehouse_update.php on line 8
+[07-May-2022 22:37:36 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/kemalarf/public_html/salma/function/warehouse_update.php on line 8
+[07-May-2022 22:38:53 Asia/Jakarta] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/kemalarf/public_html/salma/function/warehouse_update.php on line 30
+[07-May-2022 22:39:13 Asia/Jakarta] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/kemalarf/public_html/salma/function/warehouse_update.php on line 30
+[07-May-2022 22:39:15 Asia/Jakarta] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/kemalarf/public_html/salma/function/warehouse_update.php on line 30
+[07-May-2022 22:39:28 Asia/Jakarta] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/kemalarf/public_html/salma/function/warehouse_update.php on line 30
+[07-May-2022 22:39:30 Asia/Jakarta] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/kemalarf/public_html/salma/function/warehouse_update.php on line 30
+[25-Jun-2022 22:08:47 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/candrain/public_html/function/connect.php on line 2

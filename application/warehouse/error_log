@@ -1,0 +1,1 @@
+[25-Jun-2022 22:08:42 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/candrain/public_html/function/connect.php on line 2

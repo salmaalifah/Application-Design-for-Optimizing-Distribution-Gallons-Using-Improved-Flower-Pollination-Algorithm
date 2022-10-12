@@ -1,0 +1,13 @@
+[06-May-2022 16:51:04 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/kemalarf/public_html/salma/function/update_agen.php on line 10
+[06-May-2022 17:01:08 Asia/Jakarta] PHP Notice:  Undefined variable: agen_id in /home/kemalarf/public_html/salma/function/update_agen.php on line 19
+[06-May-2022 17:01:21 Asia/Jakarta] PHP Notice:  Undefined variable: agen_id in /home/kemalarf/public_html/salma/function/update_agen.php on line 19
+[06-May-2022 17:01:24 Asia/Jakarta] PHP Notice:  Undefined variable: agen_id in /home/kemalarf/public_html/salma/function/update_agen.php on line 19
+[06-May-2022 17:02:13 Asia/Jakarta] PHP Notice:  Use of undefined constant DB_DSN - assumed 'DB_DSN' in /home/kemalarf/public_html/salma/function/update_agen.php on line 25
+[06-May-2022 17:02:13 Asia/Jakarta] PHP Notice:  Use of undefined constant DB_USERNAME - assumed 'DB_USERNAME' in /home/kemalarf/public_html/salma/function/update_agen.php on line 25
+[06-May-2022 17:02:13 Asia/Jakarta] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/kemalarf/public_html/salma/function/update_agen.php on line 25
+[06-May-2022 17:02:13 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/kemalarf/public_html/salma/function/update_agen.php:25
+Stack trace:
+#0 /home/kemalarf/public_html/salma/function/update_agen.php(25): PDO->__construct('DB_DSN', 'DB_USERNAME', 'DB_PASSWORD')
+#1 /home/kemalarf/public_html/salma/agen-configuration/update-agen/index.php(57): include('/home/kemalarf/...')
+#2 {main}
+  thrown in /home/kemalarf/public_html/salma/function/update_agen.php on line 25
